@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00278257-d489-4a4a-a28c-ac530aee4d9f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/sarangjaiswal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scrape_Donor_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../visualize-indian-map/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../visualize-indian-map/data/state_color.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../visualize-indian-map/plot_and_color_indian_state_map.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../visualize-indian-map/testFolium.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../property-rates-india/.idea/dictionaries/jaiswals.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../property-rates-india/.idea/dictionaries/jaiswals.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../property-rates-india/99Acers_Rental_Price.py" beforeDir="false" afterPath="$PROJECT_DIR$/../property-rates-india/99Acers_Rental_Price.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../property-rates-india/Makaan_Rental_Price.py" beforeDir="false" afterPath="$PROJECT_DIR$/../property-rates-india/Makaan_Rental_Price.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../property-rates-india/azure-pipelines.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../property-rates-india/azure-pipelines.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../property-rates-india/csv/99acres_price.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../property-rates-india/csv/99acres_price.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../property-rates-india/csv/makaan_price.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../property-rates-india/csv/makaan_price.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../property-rates-india/logs/property-rates-india.log" beforeDir="false" afterPath="$PROJECT_DIR$/../property-rates-india/logs/property-rates-india.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../visualize-indian-map/.idea/dictionaries/jaiswals.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../visualize-indian-map/.idea/dictionaries/jaiswals.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../visualize-indian-map/.idea/visualize-indian-map.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../visualize-indian-map/.idea/visualize-indian-map.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../visualize-indian-map/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../visualize-indian-map/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../visualize-indian-map/maps/indian_boundary_map.html" beforeDir="false" afterPath="$PROJECT_DIR$/../visualize-indian-map/maps/indian_boundary_map.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../visualize-indian-map/maps/indian_state_boundary_map.html" beforeDir="false" afterPath="$PROJECT_DIR$/../visualize-indian-map/maps/indian_state_boundary_map.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../visualize-indian-map/plot_indian_boundary_map.py" beforeDir="false" afterPath="$PROJECT_DIR$/../visualize-indian-map/plot_indian_boundary_map.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../visualize-indian-map/plot_indian_state_boundary_map.py" beforeDir="false" afterPath="$PROJECT_DIR$/../visualize-indian-map/plot_indian_state_boundary_map.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/indian_political_donors$plot_indian_state_boundary_map.coverage" NAME="plot_indian_state_boundary_map Coverage Results" MODIFIED="1553470715644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../visualize-indian-map" />
+    <SUITE FILE_PATH="coverage/indian_political_donors$plot_indian_boundary_map.coverage" NAME="plot_indian_boundary_map Coverage Results" MODIFIED="1553470233248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../visualize-indian-map" />
+    <SUITE FILE_PATH="coverage/indian_political_donors$plot_and_color_indian_state_map.coverage" NAME="plot_and_color_indian_state_map Coverage Results" MODIFIED="1553475447025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../visualize-indian-map/maps" />
+    <SUITE FILE_PATH="coverage/indian_political_donors$Scrape_Donor_List.coverage" NAME="Scrape_Donor_List Coverage Results" MODIFIED="1553470223409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>div</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../visualize-indian-map" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Scrape_Donor_List.py" />
+        <option value="$PROJECT_DIR$/../visualize-indian-map/plot_indian_boundary_map.py" />
+        <option value="$PROJECT_DIR$/../visualize-indian-map/plot_indian_state_boundary_map.py" />
+        <option value="$PROJECT_DIR$/../visualize-indian-map/maps/plot_and_color_indian_state_map.py" />
+        <option value="$PROJECT_DIR$/../visualize-indian-map/state_color.csv" />
+        <option value="$PROJECT_DIR$/../visualize-indian-map/plot_and_color_indian_state_map.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="976" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="indian-political-donors" type="b2602c69:ProjectViewProjectNode" />
+              <item name="visualize-indian-map" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../visualize-indian-map" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.plot_and_color_indian_state_map">
+    <configuration name="Scrape_Donor_List" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="indian-political-donors" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scrape_Donor_List.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="plot_and_color_indian_state_map" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="visualize-indian-map" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../visualize-indian-map/maps" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../visualize-indian-map/plot_and_color_indian_state_map.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="plot_indian_boundary_map" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="visualize-indian-map" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../visualize-indian-map" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../visualize-indian-map/plot_indian_boundary_map.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="plot_indian_state_boundary_map" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="visualize-indian-map" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../visualize-indian-map" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../visualize-indian-map/plot_indian_state_boundary_map.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.plot_and_color_indian_state_map" />
+        <item itemvalue="Python.plot_indian_state_boundary_map" />
+        <item itemvalue="Python.plot_indian_boundary_map" />
+        <item itemvalue="Python.Scrape_Donor_List" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00278257-d489-4a4a-a28c-ac530aee4d9f" name="Default Changelist" comment="" />
+      <created>1553397484717</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553397484717</updated>
+      <workItem from="1553397486191" duration="52000" />
+      <workItem from="1553438221183" duration="2627000" />
+      <workItem from="1553469086386" duration="6495000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9174000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="976" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2026862" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.49660632" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39932126" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../property-rates-india/Makaan_Rental_Price.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="54" selection-start-line="54" selection-end-line="58" selection-end-column="78" />
+          <folding>
+            <element signature="e#87#106#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/indian_political_donors.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="484">
+          <caret line="160" column="60" selection-start-line="160" selection-start-column="60" selection-end-line="160" selection-end-column="60" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="-1916" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrape_Donor_List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="50" column="74" selection-start-line="50" selection-start-column="74" selection-end-line="50" selection-end-column="74" />
+          <folding>
+            <element signature="e#87#106#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../property-rates-india/99Acers_Rental_Price.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="57" column="37" selection-start-line="57" selection-start-column="34" selection-end-line="57" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../visualize-indian-map/maps/indian_state_boundary_map.html">
+      <provider selected="true" editor-type-id="LargeFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../visualize-indian-map/state_color.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../visualize-indian-map/maps/state.json">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="30">
+          <caret column="348" selection-end-column="348" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../visualize-indian-map/plot_indian_boundary_map.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../visualize-indian-map/plot_indian_state_boundary_map.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../visualize-indian-map/plot_and_color_indian_state_map.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="31" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
+          <folding>
+            <element signature="e#17#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../visualize-indian-map/testFolium.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

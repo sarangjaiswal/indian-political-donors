@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../datafront/.idea/datafront.iml" filepath="$PROJECT_DIR$/../datafront/.idea/datafront.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/indian-political-donors.iml" filepath="$PROJECT_DIR$/.idea/indian-political-donors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../property-rates-india/.idea/property-rates-india.iml" filepath="$PROJECT_DIR$/../property-rates-india/.idea/property-rates-india.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../visualize-indian-map/.idea/visualize-indian-map.iml" filepath="$PROJECT_DIR$/../visualize-indian-map/.idea/visualize-indian-map.iml" />
+    </modules>
+  </component>
+</project>
